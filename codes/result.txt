@@ -1,0 +1,41 @@
+
+../dataset/winefed.pklari0.3606nmi0.4046
+../dataset/breastfed.pklari0.2174nmi0.1121
+../dataset/ecolifed.pklari0.6041nmi0.54
+../dataset/zoofed.pklari0.8624nmi0.8612
+../dataset/thyroidfed.pklari0.6219nmi0.544
+../dataset/seedsfed.pklari0.7411nmi0.7245
+../dataset/abalonefed.pklari0.1694nmi0.1673
+k=20
+../dataset/winefed.pklari0.3606nmi0.4003
+../dataset/breastfed.pklari0.217nmi0.1129
+../dataset/ecolifed.pklari0.6491nmi0.5781
+../dataset/zoofed.pklari0.861nmi0.8458
+../dataset/thyroidfed.pklari0.6117nmi0.5291
+../dataset/seedsfed.pklari0.7647nmi0.7217
+../dataset/abalonefed.pklari0.1679nmi0.162
+../dataset/gesturefed.pklari0.4112nmi0.3494
+../dataset/liverfed.pklari0.0455nmi0.0331
+../dataset/ionospherefed.pklari0.1868nmi0.1346
+../dataset/heartfed.pklari0.2869nmi0.2826
+../dataset/balancescalefed.pklari0.4058nmi0.4648
+../dataset/vehiclefed.pklari0.1204nmi0.2146
+../dataset/banknotefed.pklari0.2493nmi0.219
+../dataset/sonarfed.pklari0.0401nmi0.1062
+../dataset/leaffed.pklari0.0824nmi0.4218
+../dataset/Yeastfed.pklari0.0218nmi0.0259
+
+k=15
+
+../dataset/thyroidfed.pklari0.6511nmi0.5598
+../dataset/thyroidfed.pklari0.7122nmi0.573[7, 7, 6, 7, 6, 7, 7, 7, 7, 10, 3, 20]
+../dataset/irisfed.pklari0.8022nmi0.8024[5, 4, 4, 5, 5, 5, 4, 5, 5, 7, 3, 20]
+../dataset/irisfed.pklari0.818nmi0.813[5, 4, 4, 5, 5, 5, 4, 5, 5, 7, 3, 20]
+../dataset/ecolifed.pklari0.6027nmi0.5445[11, 11, 11, 11, 11, 11, 8, 7, 6, 24, 8, 20]
+../dataset/irisfed.pklari0.6855nmi0.7322[7, 6, 7, 7, 7, 7, 6, 7, 7, 10, 3, 50]
+../dataset/irisfed.pklari0.6423nmi0.7221[7, 6, 7, 7, 7, 7, 6, 7, 7, 10, 3, 50]
+../dataset/irisfed.pklari0.818nmi0.813[7, 6, 7, 7, 7, 7, 6, 7, 7, 10, 3, 30]
+../dataset/irisfed.pklari0.7859nmi0.7857[7, 6, 7, 7, 7, 7, 6, 7, 7, 10, 3, 30]
+../dataset/irisfed.pklari0.8857nmi0.8642[7, 6, 7, 7, 7, 7, 6, 7, 7, 10, 3, 5]
+../dataset/irisfed.pklari0.868nmi0.8465[7, 6, 7, 7, 7, 7, 6, 7, 7, 10, 3, 2]
+../dataset/irisfed.pklari0.8681nmi0.8498[5, 4, 4, 5, 5, 5, 4, 5, 5, 7, 3, 2]
