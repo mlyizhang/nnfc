@@ -206,8 +206,8 @@ def nnfc(data_path):
         ratio = []
         for i in arr:
             for j in arr:
-                ratio.append(i / j)
-                ratio.append(j / i)
+		num1,num2=float(i)/float(j),float(j )/float(i)
+                ratio.append(max([num1,num2]))    
         maxratio = max(ratio)
         epsilon = 1.01 * maxratio / minvalue
 
