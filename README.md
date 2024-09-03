@@ -1,3 +1,2 @@
 # nnfc
-One-shot Federated Clustering based on Stable Nearest Neighbor Relationships  
-
+Wang Y, Pang W, Pedrycz W. One-Shot Federated Clustering Based on Stable Distance Relationships[J]. IEEE Transactions on Industrial Informatics, 2024.
